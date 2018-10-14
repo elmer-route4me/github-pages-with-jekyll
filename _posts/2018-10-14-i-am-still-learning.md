@@ -1,6 +1,6 @@
 ---
 title: "I am still learning"
-date: "2018-10-14"
+date: 2018-10-14
 ---
 
 
